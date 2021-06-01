@@ -19,7 +19,7 @@
 
 ![Replication cat meme](final_project_files/replication_cat.jpg)
 
-### **False Consensus Items***
+### **False Consensus Items**
 
 
 1. I have no fear of spiders.
